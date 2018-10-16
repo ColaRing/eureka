@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example-feign-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example-feign-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example-feign-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example-feign-consumer_main.iml" group="feign-consumer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example-feign-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example-feign-consumer_test.iml" group="feign-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_main.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_test.iml" group="config-server" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_main.iml" group="eureka" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_test.iml" group="eureka" />
